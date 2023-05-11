@@ -11,7 +11,7 @@ export default function Home() {
                 <div className="flex justify-center sm:mt-20 lg:mt-27">
                     <Link href="/about">
                         <button className="text-2xl border-2 border-gray-500 hover:border-gray-200">
-                            Read about me
+                            <p>Read about me</p>
                         </button>
                     </Link>
                 </div>
@@ -19,11 +19,11 @@ export default function Home() {
                 <div className="flex justify-center sm:mt-5 lg:mt-7">
                     <Link href="/works">
                         <button className="text-2xl border-2 border-gray-500 hover:border-gray-200">
-                            My Workshop
+                            <p>My Workshop</p>
                         </button>
                     </Link>
                 </div>
             </div>
         </div>
-    );
+    )
 }
