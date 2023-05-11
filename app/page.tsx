@@ -4,9 +4,7 @@ export default function Home() {
     return (
         <div className="bg-gradient-to-b from-navy-900 to-navy-500">
             <div className="ml-20 mt-7 ">
-                <h1 className="text-7xl flex justify-center sm:mt-20 lg:mt-27">
-                    SerjRoom
-                </h1>
+                <h1 className="text-7xl flex justify-center sm:mt-20 lg:mt-27">SerjRoom</h1>
 
                 <div className="flex justify-center sm:mt-20 lg:mt-27">
                     <Link href="/about">
