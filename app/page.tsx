@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from "next/link"
 
 export default function Home() {
     return (
@@ -16,7 +16,7 @@ export default function Home() {
                         <img
                             src="https://cdn.discordapp.com/attachments/697977914402144256/1106596796177854565/github.PNG"
                             alt="github image"
-                            className="rounded-full w-13 h-11"
+                            className="rounded-full w-12 h-10"
                         />
                     </a>
                 </div>
