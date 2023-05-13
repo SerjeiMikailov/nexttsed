@@ -12,7 +12,7 @@ export default function About() {
             </div>
 
             <div className="ml-100 mt-24">
-                <h4 className="font-bold mb-4 mr-24">Let's talk about with some asks</h4>
+                <h4 className="font-bold mb-4 mr-24">Let's talk about me with some asks</h4>
 
                 <li>
                     I'm human?
