@@ -1,4 +1,4 @@
-import Link from "next/link"
+import Link from "next/link";
 
 export default function Home() {
     return (
@@ -21,9 +21,7 @@ export default function Home() {
                     </a>
                 </div>
                 <div className="flex justify-center mt-3">
-                    <h1 className="text-7xl">
-                        Serjei Mikailov
-                    </h1>
+                    <h1 className="text-7xl">Serjei Mikailov</h1>
                 </div>
                 <div className="flex justify-center mt-12">
                     <Link href="/about">
