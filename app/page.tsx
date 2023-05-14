@@ -11,7 +11,7 @@ export default function Home() {
                         className="rounded-full w-41 h-41  "
                     />
                 </div>
-                <div className="flex justify-center mb-0 mt-2">
+                <div className="flex justify-center mb-0 mt-2 mr-4">
                     <a href="https://github.com/SerjeiMikailov" target="blank">
                         <img
                             src="https://cdn.discordapp.com/attachments/697977914402144256/1106596796177854565/github.PNG"

@@ -11,7 +11,8 @@ export default function About() {
                 <h3>(Boring text below)</h3>
             </div>
 
-            <div className="ml-100 mt-24">
+            <div className="flex justify-start ml-20 mt-24">
+                <div>
                 <h4 className="font-bold mb-4 mr-24">Let's talk about me with some asks</h4>
 
                 <li>
@@ -34,9 +35,11 @@ export default function About() {
 
                     And yes, i'm studying English, so i don't speak fluently as you see...
                 </p>
+                </div>
             </div>
 
-            <div className="ml-100 mt-10">
+            <div className="flex justify-start ml-20 mt-10">
+                <div className="mr-5">
 
                 <h4 className="mb-3 font-bold">My steam if you want to add me</h4>
 
@@ -54,14 +57,17 @@ export default function About() {
                         My steam profile
                     </p>
                 </a>
+                </div>
             </div>
 
-            <div className="ml-100 mt-5 mb-5">
+            <div className="flex justify-start ml-20 mt-8 mb-5">
+                <div>
                 <Link href="/">
                     <button className="text-2xl rounded-full bg-blue-500 text-white px-4 py-2 hover:border-gray-200">
                         <p>Back to main page</p>
                     </button>
                 </Link>
+                </div>
             </div>
         </>
     )

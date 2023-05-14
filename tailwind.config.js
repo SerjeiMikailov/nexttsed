@@ -8,7 +8,7 @@ module.exports = {
   theme: {
     extend: {
         margin: {
-            '100': '15rem',
+            '100': '70rem',
             'soph': '67rem',
             'imc': '48rem',
           },
