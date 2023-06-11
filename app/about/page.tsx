@@ -44,7 +44,7 @@ export default function About() {
                     </h4>
 
                     <img
-                        src="https://cdn.discordapp.com/attachments/697977914402144256/1106999183027753011/image.png"
+                        src="https://cdn.discordapp.com/attachments/697977914402144256/1117585542767444038/image.png"
                         alt="steam image"
                         className="mb-5"
                     />
