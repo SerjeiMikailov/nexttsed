@@ -36,7 +36,7 @@ export default function Works() {
                     </a>
                 </div>
             </div>
-
+            {/*
             <div className="flex justify-start mb-10 mr-3">
                 <div className="ml-20 rounded border border-white border-r-2 border-r-1/4 p-4">
                     <h4 className="font-bold text-2xl">GPT Fanfic machine</h4>
@@ -82,6 +82,7 @@ export default function Works() {
                     </a>
                 </div>
             </div>
+            */}
             <div className="flex justify-start">
                 <div className="ml-20">
                     <h2 className="text-4xl mb-2">More coming soon...</h2>
